@@ -6,7 +6,7 @@ This is a tensorflow implementation of a Generic model, and two LSTM models.
 
 The model architectures:
 
-table>
+<table>
   <tr>
     <td> <img src="img/model1.png"  alt="Model-1" ></td>
    </tr> 
