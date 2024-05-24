@@ -4,7 +4,7 @@ Deep learning based PCE Prediction and Classification of high performance OPV mo
 This repository contains codes for Power Conversion Prediction (PCE) prediction of of High performance Organic PhotoVolatic (OPV) molecules.
 This is a tensorflow implementation of a Generic model, and two LSTM models.
 
-##The model architectures:
+## The model architectures:
 Model 1 architecture
 <table>
   <tr>
