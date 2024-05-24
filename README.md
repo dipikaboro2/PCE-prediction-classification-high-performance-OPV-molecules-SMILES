@@ -9,5 +9,8 @@ The model architectures:
 <table>
   <tr>
     <td> <img src="img/model1.png"  alt="Model-1" ></td>
-   </tr> 
+  </tr> 
+    <tr>
+    <td> <img src="img/model2-3.png"  alt="Model-2-3" ></td>
+  </tr> 
 </table>
