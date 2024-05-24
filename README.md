@@ -23,3 +23,10 @@ Models 2 and 3 use LSTM for two different tasks:
     <td> <img src="img/model2-3.png"  alt="Model-2-3" ></td>
   </tr> 
 </table>
+
+### Results
+<table>
+    <tr>
+    <td> <img src="img/results.png"  alt="Results" ></td>
+  </tr> 
+</table>
