@@ -13,8 +13,8 @@ This is a tensorflow implementation of a Generic model, and two LSTM models.
 </table>
 
 #### Models 2 and 3 use LSTM for two different tasks:
-#### 1. PCE prediction
-#### 2. Classifying OPVs into High performance or Low performance molecule.
+#### 1. PCE prediction of the OPV molecule. (Model 2)
+#### 2. Classifying OPVs into High or Low efficiency of the molecule. (Model 3)
 <table>
     <tr>
     <td> <img src="img/model2-3.png"  alt="Model-2-3" ></td>
